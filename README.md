@@ -3,3 +3,4 @@
 - just a personal tools nothing pedagogic.
 -   '-h' for builtin documentation.
 - optimized for minimal size.
+- performances improved for larger code-base project.
