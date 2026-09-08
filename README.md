@@ -4,3 +4,4 @@
 -   '-h' for builtin documentation.
 - optimized for minimal size.
 - performances improved for larger code-base project.
+- added support of .sh .log .c .h files (see embedded documentation -h)
